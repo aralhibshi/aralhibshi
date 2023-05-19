@@ -29,6 +29,6 @@
 ### Stats
 [![Alalhibshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aralhibshi&show_icons=true&theme=radical)](https://github.com/aralhibshi)
 
-### GitHub Enterprise Accounts
-[![GitHub Enterprise](https://img.shields.io/badge/Ent-Aralhibshi1-100000?style=for-the-badge&logo=github&logoColor=white)](https://git.generalassemb.ly/aralhibshi1)
-[![GitHub Enterprise](https://img.shields.io/badge/Ent-Aralhibshi2-100000?style=for-the-badge&logo=github&logoColor=white)](https://git.generalassemb.ly/aralhibshi2)
+### Enterprise Accounts
+[![GitHub Enterprise](https://img.shields.io/badge/Ent-Aralhibshi1&nbsp;(Student)-100000?style=for-the-badge&logo=github&logoColor=white)](https://git.generalassemb.ly/aralhibshi1)
+[![GitHub Enterprise](https://img.shields.io/badge/Ent-Aralhibshi2&nbsp;(Work)-100000?style=for-the-badge&logo=github&logoColor=white)](https://git.generalassemb.ly/aralhibshi2)

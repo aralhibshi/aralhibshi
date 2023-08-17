@@ -14,13 +14,14 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/aralhibshi)
 
 ### Technologies & Frameworks
-[![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/aralhibshi)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/aralhibshi)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/aralhibshi)
-[![Express.JS](https://img.shields.io/badge/Express.js-black?style=for-the-badge)](https://github.com/aralhibshi)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/aralhibshi)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/aralhibshi)
-[![Node.JS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/aralhibshi)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-DB7100?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/aralhibshi)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/aralhibshi)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/aralhibshi)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/aralhibshi)
+[![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/aralhibshi)
+[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django)](https://github.com/aralhibshi)
+[![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react)](https://github.com/aralhibshi)
+[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/aralhibshi)
 
 ### OS
 [![MacOS](https://img.shields.io/badge/mac%20os-black?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/aralhibshi)

@@ -8,9 +8,8 @@
 </p>
 
 ### Languages
-[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/aralhibshi)
-[![CSS](https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/aralhibshi)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/aralhibshi)
+[![Typescript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=007ACC)](https://github.com/aralhibshi)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/aralhibshi)
 
 ### Technologies & Frameworks

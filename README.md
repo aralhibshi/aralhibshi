@@ -23,7 +23,7 @@
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/aralhibshi)
 
 ### OS
-[![MacOS](https://img.shields.io/badge/mac%20os-black?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/aralhibshi)
+[![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/aralhibshi)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/aralhibshi)
 
 ### Stats

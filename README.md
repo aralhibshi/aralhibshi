@@ -93,6 +93,3 @@
 
 ### 🔖 Version Control
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-
-### Stats
-[![Alalhibshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aralhibshi&show_icons=true&theme=radical)](#)
